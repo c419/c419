@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @c419 aka white_sky aka Vladimir Naprasnikov
-- 👀 I’m exploring what can be done with coding
 - 🌱 Currently charmed with python but also playing with js, c, bash
 - 📫 You can reach me on v.naprasnikov@gmail.com
 
